@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[38],{"01e7":function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("\n  Parameter\n")])},a=[],s={name:"users"},u=s,c=t("2877"),i=Object(c["a"])(u,r,a,!1,null,"6462e6be",null);n["default"]=i.exports}}]);
